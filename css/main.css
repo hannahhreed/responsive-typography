@@ -99,10 +99,6 @@ body {
       margin-bottom: 1.4rem;
     }
 
-    article header p {
-      margin-bottom: 1.4rem;
-    }
-
     article header {
       margin-bottom: 1.4rem;
     }
@@ -141,10 +137,6 @@ body {
     margin-bottom: 1.5rem;
   }
 
-  article header p {
-    margin-bottom: 1.5rem;
-  }
-
   article header {
     margin-bottom: 1.5rem;
   }
@@ -159,10 +151,6 @@ body {
 
   article {
     margin-bottom: 1.5em;
-  }
-
-  article header {
-    margin-bottom: 1.5rem;
   }
 
 }
