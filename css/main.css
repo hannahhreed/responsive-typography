@@ -23,6 +23,7 @@ html {
 
 article {
   max-width: 43em;
+  margin: 1.3em;
 }
 
 article ol {
@@ -45,6 +46,7 @@ article header {
 article header p {
   font-style: italic;
   margin-top: 0;
+  padding-top: 0;
 }
 
 article > p:last-child {
