@@ -89,31 +89,31 @@ body {
   h1,
   p {
     margin-bottom: 1.4rem;
-    }
+  }
 
-    article > p:last-child {
-      padding-bottom: 1.4rem;
-    }
+  article > p:last-child {
+    padding-bottom: 1.4rem;
+  }
 
-    article header p {
-      margin-bottom: 1.4rem;
-    }
+  article header p {
+    margin-bottom: 1.4rem;
+  }
 
-    article header {
-      margin-bottom: 1.4rem;
-    }
+  article header {
+    margin-bottom: 1.4rem;
+  }
 
-    article p {
-      margin-bottom: 1.4rem;
-    }
+  article p {
+    margin-bottom: 1.4rem;
+  }
 
-    article ol {
-      margin-bottom: 1.4rem;
-    }
+  article ol {
+    margin-bottom: 1.4rem;
+  }
 
-    article {
-      margin-bottom: 1.4em;
-    }
+  article {
+    margin-bottom: 1.4em;
+  }
 
 }
 
