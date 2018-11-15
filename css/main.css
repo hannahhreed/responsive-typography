@@ -12,7 +12,8 @@ html {
   text-size-adjust: 100%;
 
   color: #222;
-  font-family: "CrimsonText", sans-serif;
+  font-family: "Crimson Text", sans-serif;
+  line-height: 1.3;
 }
 
 *, *::before, *::after {
@@ -43,6 +44,8 @@ blockquote {
   max-width: 24em;
   color: #555;
   font-size: 1.125rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 .quote {
